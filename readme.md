@@ -92,6 +92,7 @@ Flowchart key:
 
 #### 6.3 Graphical representation of the dataset 📊
 Graphical visualisation of dataset was prepared using **pandas** and **plotly.express** libraries.
+
 **Fig 1. Book length distribution** 📄
 - A histogram of page count for all books. Interactive hover over the top of the graph shows book information. Highest page count has Aubrey–Maturin series. Most books are not grouped by series.
 

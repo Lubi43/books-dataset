@@ -1,13 +1,13 @@
-site_name: My Docs
+site_name: Book search project
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg  
       
 nav:  
   - Home: index.md  
   - About: about.md  
   - Part 1 - Book search: part1/book_search.md
   - Part 2 - Book suggestions: part2/suggestions.md
-  - Part 3 - Books stats: part3/stats.md        
+  - Part 3 - Books stats: part3/stats.md      
