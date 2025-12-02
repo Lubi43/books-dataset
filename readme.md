@@ -8,21 +8,26 @@ The most common struggles finding books I had were:
    - ⏳ Time wasted reading books that are not good enough fit for my interests
    - 🔎 Difficulty finding books with specific page lengths with good ratings (although this metric has skewness with median around 4 out of 5 ⭐) 
 ### 3 Requirements
-jupyter_client 8.6.3
-jupyter_core 5.8.1
-kaggle 1.7.4.5
-nbformat 5.10.4
-pandas 2.3.3
-plotly 6.4.0
+jupyter_client 8.6.3<br>
+jupyter_core 5.8.1<br>
+kaggle 1.7.4.5<br>
+nbformat 5.10.4<br>
+pandas 2.3.3<br>
+plotly 6.4.0<br>
 
 More specifications can be found in requirements.txt.
 
 ### 4 Files
-Book_search.ipynb
-graohs_goodreards.ipynb
-readme.md
-requirements.txt
-mkdocs.yml
+Book_search.ipynb<br>
+graphs_goodreards.ipynb<br>
+readme.md<br>
+requirements.txt<br>
+mkdocs.yml<br>
+docs/<br>
+    index.md<br>           
+    about.md<br>            
+    flowchart.md<br>
+requirements.txt<br>
 Goodreads_books_with_genres.csv - dataset downloaded from [kaggle database](https://www.kaggle.com/datasets/middlelight/goodreadsbookswithgenres).
 
 ### 5 Imports required:
