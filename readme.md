@@ -3,7 +3,7 @@
 
 ### 2 Motivations
 As a book enthusiast with limited reading time, I needed a way to quickly find books matching my current reading capacity and interests. 
-The most common struggles finding books I had were:
+The most common struggles finding books I had were: 
    - 📉 Overwhelming number of books published
    - ⏳ Time wasted reading books that are not good enough fit for my interests
    - 🔎 Difficulty finding books with specific page lengths with good ratings (although this metric has skewness with median around 4 out of 5 ⭐) 

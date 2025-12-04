@@ -2,10 +2,10 @@
 
 ## Project description<br>
 
-**Book Search** 📚 is a Python-based tool for searching and analyzing a publicly available kaggle dataset produced by [middlelight](https://www.kaggle.com/datasets/middlelight/goodreadsbookswithgenres). Developed as a course project, it enables users to:  
-- Search books by title, author, or genre  
-- Filter by publication year or rating  
-- Analyze reading trends and patterns  
+**Book Search** 📚 is a Python-based tool for searching and analyzing a publicly available kaggle dataset produced by [middlelight](https://www.kaggle.com/datasets/middlelight/goodreadsbookswithgenres). Developed as a course project, it enables users to:<br>  
+- Search books by title, author, or genre  <br>
+- Filter by publication year or rating  <br>
+- Analyze reading trends and patterns  <br>
 
 As a book enthusiast with limited reading time, I needed a way to quickly find books matching my current reading capacity and interests. 
 The most common struggles finding books I had were:<br>
