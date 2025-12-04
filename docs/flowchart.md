@@ -1,4 +1,3 @@
-**Flowchart**
 This flowchart illustrates the core decision logic behind the book filtering system, showing how user inputs transform into personalized recommendations.<br>
 
 ```mermaid

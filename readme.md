@@ -1,5 +1,5 @@
 ### 1 Project description
-**Book search** 📚 is a book search tool on publicly available dataset from Goodreads prepared as a project for a python course. Dataset was accessed on kaggle.com, uploaded by jealousleopard, updated by middlelight ([link](https://www.kaggle.com/datasets/middlelight/goodreadsbookswithgenres)). 
+**Book search** 📚 is a book search tool on publicly available dataset prepared as a project for a python course. Dataset was accessed on kaggle.com, uploaded by middlelight ([link](https://www.kaggle.com/datasets/middlelight/goodreadsbookswithgenres)). 
 
 ### 2 Motivations
 As a book enthusiast with limited reading time, I needed a way to quickly find books matching my current reading capacity and interests. 
@@ -24,9 +24,9 @@ readme.md<br>
 requirements.txt<br>
 mkdocs.yml<br>
 docs/<br>
-    index.md<br>           
-    about.md<br>            
-    flowchart.md<br>
+   - index.md           
+   - about.md            
+   - flowchart.md
 requirements.txt<br>
 Goodreads_books_with_genres.csv - dataset downloaded from [kaggle database](https://www.kaggle.com/datasets/middlelight/goodreadsbookswithgenres).
 
